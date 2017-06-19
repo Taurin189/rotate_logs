@@ -1,0 +1,2 @@
+# not include config_file/*.config because it is personal configurations.
+config_file/*.config
